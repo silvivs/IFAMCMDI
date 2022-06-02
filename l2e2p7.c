@@ -12,7 +12,7 @@
 // g) printf(“Módulo de %d dividido por %d é %d\n”, x, y, x % y );
 // h) if (x = y) printf( %d é igual a %d\n”, x, y );
 // i) printf(“A soma é %d\n”,x + y);
-// j) Printf(“O valor que você digitou é: %d\n",valor);
+// j) printf(“O valor que você digitou é: %d\n",valor);
 
 
 
@@ -83,4 +83,18 @@ int main(void){
     printf("3, ");
     printf("4.");
 }
+*/
+
+
+// 2.22 O que o código a seguir imprime?
+// printf( “*\n**\n***\n****\n*****\n” );
+
+/*
+
+*
+**
+***
+****
+*****
+
 */
